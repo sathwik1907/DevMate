@@ -177,3 +177,7 @@ OpenRouter is temporarily unavailable: <actual error>
 - Add screenshot assets for the final demo
 - Add automated UI tests for each Streamlit tab
 # DevMate
+
+## AI Disclosure
+
+AI tools (ChatGPT) were used as a development assistant for brainstorming, debugging, and documentation. All implementation decisions, integration, testing, and final verification were carried out by the team.
