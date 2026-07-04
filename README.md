@@ -176,3 +176,4 @@ OpenRouter is temporarily unavailable: <actual error>
 - Add export/import for saved Cognee memory collections
 - Add screenshot assets for the final demo
 - Add automated UI tests for each Streamlit tab
+# DevMate
